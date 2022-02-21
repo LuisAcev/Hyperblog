@@ -6,3 +6,5 @@ tengo 36 años
 sigo aprendiendo mas de git no esta tan horrible 
 
 hoy es el nuevo web develop
+
+nos encata su vida
